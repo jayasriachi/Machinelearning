@@ -1,5 +1,5 @@
 # Machinelearning
 #requirements:
-numpy
-pandas
-plotly
+#1.numpy
+#2.pandas
+#3.plotly
